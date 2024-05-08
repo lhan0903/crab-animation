@@ -1,5 +1,5 @@
 /////////////////////////////////////////////////////////////////////////////////////////
-//  UBC CPSC 314 -- Sept 2023  -- A3 Template
+//  UBC CPSC 314 -- Sept 2023
 /////////////////////////////////////////////////////////////////////////////////////////
 
 console.log('A3 Sept 2023');
@@ -145,12 +145,12 @@ const move1 = [1, 2,
   0,             // body        
   0, 0, 0, 0,    // left leg bases
   0, 0, 0, 0,    // right leg bases
-  restAngle, restAngle, restAngle, bendAngle,    // left leg tips
+  restAngle, restAngle, restAngle, bendAngle,       // left leg tips
   restAngle, restAngle, restAngle, extendAngle,     // right leg tips
-  +10, +10,          // claw bases
-  +20, -20, +20, -20,    // claws
-  +10, +10,          // eye bases
-  0, 0           // eye balls
+  +10, +10,               // claw bases
+  +20, -20, +20, -20,     // claws
+  +10, +10,               // eye bases
+  0, 0                    // eye balls
 ];
 
 const move2 = [0, 1, 
