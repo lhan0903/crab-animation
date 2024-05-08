@@ -10,4 +10,4 @@ Implemented features and keybindings:
 * Press D for the crab to dance
 * Press J for the crab to jump once
 
-View the project: https://lhan0903.github.io/crab-animation/
+Test it out: https://lhan0903.github.io/crab-animation/
